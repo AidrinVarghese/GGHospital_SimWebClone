@@ -28,5 +28,11 @@
   font-size: 16px;
 }
 
+.header_nav_bar a:hover {
+  color: rgb(252, 27, 27);
+}
+.header_nav_bar a.active {
+  color: rgb(252, 27, 27);
+}
 
     

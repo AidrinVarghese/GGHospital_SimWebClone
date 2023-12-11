@@ -27,15 +27,17 @@
     font-weight : bold;
     font-size: 40px;
     margin-left: 100px; 
-    letter-spacing: 1.15px;  
+    letter-spacing: 1.15px;
+    line-height: 40px;  
 }
 .title_description{
     position: absolute;
-    top: 65%;
+    top: 67%;
     font-weight : 400;
     font-size: 15px;
     margin-left: 100px; 
     letter-spacing: 1.2px; 
+    line-height: 25px; 
 }
 
 .main_button button{
@@ -52,7 +54,7 @@
 .doctors_talk{
     position: absolute;
     top: 81%;
-    margin-left:330px;
+    margin-left:350px;
     display: flex;
 }
 .playbutton{
@@ -60,20 +62,21 @@
 }
 
 .talk{
-    flex: 2;
+    flex: 3;
     color: black;
-    width: 90px;
+    width: 100px;
     align-self: center;
 }
 
 .form_section{
     position: absolute;
-    top: 110%;
+    top: 105%;
     background-color: rgb(255, 255, 255);
     border: none;
     border-radius: 10px;
     margin-left: 110px;    
     padding:2%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 
     
 }
@@ -137,11 +140,11 @@
     margin-top: 30px; 
 }
 .surgery_images{
-    width: 300px;
+    width: 380px;
     margin-top: 95px;
     margin-left: 40px;
-    margin-right: 40px;
-}
+    
+} 
 
 .department_sections{
     display: flex;
@@ -149,8 +152,9 @@
 .surgery_sections{
     flex: 1; 
     margin-bottom: 120px;
-
+ 
 }
+
 .main_desc{
     margin-top:20px;
     font-size: 15px;
