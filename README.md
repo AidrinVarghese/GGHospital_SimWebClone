@@ -19,28 +19,20 @@ Using HTML and CSS, tried to create the website of a Hospital named GG Hospital.
 <hr>
 
 <h2>Screenshots:</h2>
-1.Navigation bar and Header bar<br>
-![nav_and_head_bar](https://github.com/AidrinVarghese/GGHospital_SimWebClone/assets/130077469/d77a79db-57a8-4c88-b41e-f8866c9ed9c2)
-
-2.Book Appointment<br>
-
-3.Departments listed<br>
-
-4.Why GG is better<br>
-
-5.Doctors listed<br>
-
-6.Facilities and Activities<br>
-
-7.You may be interested<br>
-
-8.Newsletter<br>
-
-9.Footer<br>
 
 
 
 
+
+![why](https://github.com/AidrinVarghese/GGHospital_SimWebClone/assets/130077469/82d18758-e10d-456b-99f7-ea06000e4801)
+![newsletter](https://github.com/AidrinVarghese/GGHospital_SimWebClone/assets/130077469/a3183a65-7288-4c50-b947-23e1533e524a)
+![nav_and_head_bar](https://github.com/AidrinVarghese/GGHospital_SimWebClone/assets/130077469/c2adefa4-8563-4781-8bac-b78d36043452)
+![interested](https://github.com/AidrinVarghese/GGHospital_SimWebClone/assets/130077469/5da0e06d-7486-41a5-996c-eb244a117732)
+![footer](https://github.com/AidrinVarghese/GGHospital_SimWebClone/assets/130077469/d147d81b-41fe-4cc8-b0c1-b3e27a162941)
+![facilities](https://github.com/AidrinVarghese/GGHospital_SimWebClone/assets/130077469/fe179609-04d1-44a1-8cc9-852bd6f80c40)
+![doctors](https://github.com/AidrinVarghese/GGHospital_SimWebClone/assets/130077469/a9896923-5946-4566-8493-838665708d2d)
+![departments](https://github.com/AidrinVarghese/GGHospital_SimWebClone/assets/130077469/82006cb5-efee-4fbf-abcb-1aba0012799b)
+![book_appointment](https://github.com/AidrinVarghese/GGHospital_SimWebClone/assets/130077469/0b83779d-c841-4ebe-8da1-3b52ab1a7569)
 
 
 
